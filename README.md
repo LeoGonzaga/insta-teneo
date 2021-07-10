@@ -1,16 +1,16 @@
 
 
 <div align="center">
-<h2>Acelerador de áudio no WhatsApp Web</h2>
+<h2>Acelerador de áudio no Insta Web</h2>
 </div>   
 <p align="center">	
    <a href="https://www.linkedin.com/in/leogonzaga/">
       <img alt="Léo Gonzaga" src="https://img.shields.io/badge/-Leo Gonzaga-FB250?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/LeoGonzaga/acelerar-audio-wpp?color=FB250">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/LeoGonzaga/insta-teneo?color=FB250">
 
   <a href="https://github.com/leoGonzaga/preguizap/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leoGonzaga/acelerar-audio-wpp?color=FB250">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leoGonzaga/insta-teneo?color=FB250">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-FB250">
 
@@ -36,15 +36,15 @@ Esse projeto foi desenvolvido utlizando:
 ```bash
 # Clique em code e depois em download.zip ou clone o repositório.
 # Clone Repository
-$ git clone https://github.com/LeoGonzaga/acelerar-audio-wpp.git
+$ git clone https://github.com/LeoGonzaga/insta-teneo.git
 
 # Extraia a pasta
 # Abra o google chrome e digite chrome://extensions/
 # Ative o modo de desenvolvedor no lado superior direito
-# Agora é só arrastar a pasta para dentro da tela das extensões e atualizar a página no web whatsapp
+# Agora é só arrastar a pasta para dentro da tela das extensões e atualizar a página no web instagram
 
 
-# Para ativar a velocidade 2x, clique no icone de 2x no canto superior esquerdo no site do whatsapp
+# Para ativar a velocidade 2x, clique no icone de 2x no canto superior esquerdo no site do instagram
 # Depois clique no áudio que deseja ouvir.
 ```
 
